@@ -1,2 +1,2 @@
-# Nat-Bitton-Portfolio
+# Nat Bitton Portfolio
 My Personal CV Portfolio
