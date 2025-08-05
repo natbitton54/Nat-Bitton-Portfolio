@@ -12,7 +12,7 @@ import {
 } from "react-icons/fa";
 import { Download } from "lucide-react";
 import Project from "./Project";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 const socialIcons = [
   { name: "Github", icon: <FaGithub />, url: "https://github.com/natbitton54" },

@@ -1,6 +1,5 @@
 import { ArrowLeft } from "lucide-react";
 import { motion } from "framer-motion";
-import React from "react";
 import { useNavigate } from "react-router-dom";
 
 export default function BackButton() {

@@ -52,18 +52,18 @@ export default function ProjectCard({ project }) {
 
         {/* Content */}
         <div className="flex flex-col p-4 gap-3 flex-grow justify-start">
+          {project.type && (
+            <h3 className="text-sm font-medium text-zinc-600 dark:text-zinc-400">
+              {project.type}
+            </h3>
+          )}
+
           <div className="flex items-center justify-between">
             <h2 className="text-xl font-bold text-black dark:text-white leading-snug">
               {project.title}
             </h2>
             <ArrowUpRight className="w-5 h-5 text-zinc-800 dark:text-white opacity-0 translate-x-0 translate-y-0 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-1 group-hover:-translate-y-1" />
           </div>
-
-          {project.type && (
-            <h3 className="text-sm font-medium text-zinc-600 dark:text-zinc-400">
-              {project.type}
-            </h3>
-          )}
 
           <p>{project.brief}</p>
 
