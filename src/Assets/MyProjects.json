@@ -1,0 +1,316 @@
+[
+    {
+        "id": 1,
+        "title": "Task Manager App",
+        "category": "Responsive Web Apps",
+        "image": "/images/task-manager-app.png",
+        "type": "Fullstack",
+        "languages": [
+            "React",
+            "JavaScript",
+            "Firebase",
+            "GitHub Actions"
+        ],
+        "year": 2025,
+        "client": "Personal Project",
+        "Service": [
+            "Web Design",
+            "Frontend Development",
+            "Backend Development"
+        ],
+        "project": "Responsive Web App",
+        "liveDemoLink": "https://task-manager-three-vert.vercel.app/login",
+        "githubLink": "https://github.com/natbitton54/todo-app-react-js",
+        "description": "The Task Manager App is a full-stack productivity tool developed for cross-platform use, operating both as a desktop web application and a mobile PWA. Built with React, Firebase, and GitHub Actions, it offers a streamlined experience for organizing tasks with cloud-synced data and real-time updates. Users can authenticate securely, categorize tasks, and monitor progress through an intuitive dashboard. Integrated calendar synchronization ensures reminders stay consistent across devices, while automated workflows manage overdue notifications. The interface is designed for clarity, with responsive layouts that adapt to any screen size. Its architecture prioritizes performance, maintainability, and scalability, making it a reliable tool for personal or team productivity.",
+        "brief": "Cross-platform task manager with real-time sync, calendar integration, and advanced productivity features.",
+        "features": [
+            "Google/email authentication",
+            "Real-time Firestore sync",
+            "Color-coded categories",
+            "Due-date picker",
+            "Full-text search",
+            "Paginated lists",
+            "Dark mode",
+            "Analytics dashboard",
+            "Google Calendar sync reminders via API"
+        ],
+        "security": [
+            "Firebase Auth for secure login",
+            "Firestore rules for data access control"
+        ],
+        "objective": "Deliver a reliable, real-time task management tool with advanced automation and calendar integration, empowering users to stay organized across devices."
+    },
+    {
+        "id": 2,
+        "title": "Apple 2021 Homepage Clone",
+        "category": "Responsive Web Apps",
+        "image": "/images/apple-clone-2021.png",
+        "type": "Frontend UI/UX",
+        "languages": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "year": 2021,
+        "client": "Personal Project",
+        "Service": [
+            "Website Design",
+            "Frontend Development"
+        ],
+        "project": "Responsive Web App",
+        "liveDemoLink": "https://csb-f07m2h.vercel.app/",
+        "githubLink": "https://github.com/natbitton54/Apple-homepage-clone",
+        "description": "The Apple 2021 Homepage Clone is a front-end development project that recreates the high-end visual style of Apple’s official website. Built entirely with HTML, CSS, and JavaScript, it mirrors the clean design, typography, and interactive product showcases found on the original site. The layout adapts seamlessly to devices of all sizes, maintaining design integrity and usability. Smooth animations and subtle hover effects enhance user interaction, while semantic HTML and modular CSS ensure maintainable code. This project demonstrates an understanding of brand-consistent UI replication, responsive design principles, and attention to visual detail. It served as a practical exercise in creating polished, professional-grade user interfaces.",
+        "brief": "High-fidelity Apple homepage clone with responsive design, animations, and interactive product showcases.",
+        "features": [
+            "Responsive product showcase",
+            "Animated navigation menus",
+            "Interactive scrolling effects",
+            "Adaptive grid layouts"
+        ],
+        "objective": "Recreate Apple's premium UI to sharpen responsive design, animation, and high-fidelity interface replication skills for professional-grade websites."
+    },
+    {
+        "id": 3,
+        "title": "Quickcart",
+        "category": "Responsive Web Apps",
+        "image": "/images/quickcart.png",
+        "type": "Fullstack E-commerce",
+        "languages": [
+            "React",
+            "JavaScript",
+            "Firebase",
+            "Node.js"
+        ],
+        "year": 2023,
+        "client": "Freelance",
+        "Service": [
+            "Frontend Development",
+            "Backend Development"
+        ],
+        "project": "Responsive Web App",
+        "liveDemoLink": "https://quick-cart-roan.vercel.app/",
+        "githubLink": "https://github.com/natbitton54/quick-cart-react-js",
+        "description": "Quickcart is a responsive e-commerce platform created with React, Node.js, and Firebase, designed to deliver a modern, streamlined shopping experience. Customers can browse products from major brands, view detailed information, and manage their cart in real-time. Secure user authentication ensures privacy, while responsive design enables use on both desktop and mobile devices without loss of functionality. The backend handles inventory updates and order processing efficiently, maintaining accurate stock data across all sessions. Quickcart focuses on intuitive navigation, minimal checkout friction, and visually clean layouts. This project demonstrates expertise in full-stack development, integrating front-end responsiveness with backend logic for a complete e-commerce solution.",
+        "brief": "E-commerce platform with secure checkout, real-time inventory, and responsive design.",
+        "features": [
+            "Dynamic cart updates",
+            "Product browsing with filters",
+            "Secure checkout",
+            "Responsive design",
+            "Real-time inventory updates"
+        ],
+        "security": [
+            "Secure payment integration",
+            "Firebase Auth for user account security"
+        ],
+        "objective": "Build a responsive e-commerce system that streamlines shopping with secure payments, intuitive navigation, and mobile-first optimization."
+    },
+    {
+        "id": 4,
+        "title": "Zoologix (Species-api)",
+        "category": [
+            "APIs",
+            "Responsive Web Apps"
+        ],
+        "image": "/images/zoologix.png",
+        "type": "Fullstack (REST API + Frontend)",
+        "languages": [
+            "PHP",
+            "MySQL",
+            "React",
+            "JavaScript"
+        ],
+        "year": 2025,
+        "client": "Personal Project",
+        "Service": [
+            "Frontend Development",
+            "Backend Development"
+        ],
+        "project": "API",
+        "liveDemoLink": "",
+        "githubLink": ["https://github.com/Trevor-Km/species-api", "https://github.com/natbitton54/Species-api-client"],
+        "description": "Zoologix is a PHP and MySQL-powered RESTful application that delivers structured access to biological datasets, including species, habitats, and diets. Built to support researchers, educators, and developers, it offers queryable endpoints with filtering, sorting, and pagination. The frontend, developed in React and JavaScript, provides a responsive interface for data exploration and visualization. Composite endpoints merge local and external datasets to enrich insights, making the platform valuable for academic and applied use. Secure JWT authentication and role-based permissions ensure data integrity and controlled access. Zoologix combines efficient API architecture with a user-friendly interface, enabling reliable and scalable biological data integration.",
+        "brief": "Biology data API with advanced queries, secure access, and frontend integration.",
+        "features": [
+            "RESTful endpoints",
+            "Filtering and sorting",
+            "Composite data endpoints",
+            "Custom JavaScript HTTP client"
+        ],
+        "security": [
+            "JWT authentication",
+            "Role-based access control"
+        ],
+        "objective": "Offer a secure, developer-friendly biology API with advanced data querying and integration capabilities for research and applications."
+    },
+    {
+        "id": 5,
+        "title": "SmartHome IoT Dashboard",
+        "category": "Desktop Web Apps",
+        "image": "/images/smarthome-iot-dashboard.png",
+        "type": "Raspberry PI + IoT Dashboard",
+        "languages": [
+            "Python",
+            "Flask",
+            "JavaScript"
+        ],
+        "year": 2025,
+        "client": "School Project",
+        "Service": [
+            "Backend Development",
+            "Frontend Development"
+        ],
+        "project": "Desktop Web App",
+        "githubLink": "https://github.com/natbitton54/IoTDashBoard",
+        "liveDemoLink": "",
+        "description": "SmartHome IoT Dashboard is a home automation solution powered by Python and Flask, hosted on a Raspberry Pi for integration with ESP32-based devices. It enables real-time monitoring of environmental data such as temperature, humidity, and light levels through an intuitive web dashboard. Users can toggle connected devices, schedule operations, and receive alerts when preset conditions are met. RFID-based authentication secures access, while WebSocket integration ensures low-latency updates. Designed with a responsive layout, the dashboard is accessible on both desktop and mobile devices. The project demonstrates expertise in IoT systems, backend API development, and user-focused interface design for practical, secure home automation.",
+        "brief": "IoT dashboard for real-time home monitoring with RFID security and responsive control.",
+        "features": [
+            "Real-time IoT data streaming",
+            "Device control",
+            "Scheduling",
+            "RFID authentication",
+            "Email alerts",
+            "Responsive dashboard"
+        ],
+        "security": [
+            "RFID-based access control",
+            "Secure API endpoints"
+        ],
+        "objective": "Deliver a secure, real-time home automation interface with IoT device integration, providing users with convenient control and monitoring tools."
+    },
+    {
+        "id": 6,
+        "title": "SmartShelf",
+        "category": [
+            "Responsive Web Apps",
+            "Mobile Apps"
+        ],
+        "image": "/images/smartshelf.png",
+        "type": "Full-Stack IMS",
+        "languages": [
+            "PHP",
+            "MySQL",
+            "JavaScript"
+        ],
+        "year": 2024,
+        "client": "School Project",
+        "Service": [
+            "Frontend Development",
+            "Backend Development",
+            "Web Design"
+        ],
+        "project": "Responsive Web App",
+        "githubLink": "https://github.com/Trevor-Km/Smartshelf",
+        "liveDemoLink": "",
+        "description": "SmartShelf is an inventory management system developed using PHP, MySQL, and JavaScript, tailored for small to medium-sized businesses. It provides real-time tracking of stock levels, low-stock notifications, and category-based organization for efficient oversight. The platform includes vendor management tools, order tracking, and detailed inventory reporting to improve operational decision-making. Role-based access control ensures that employees only access relevant features, while two-factor authentication adds extra security. The responsive design allows managers to monitor inventory from any device, improving flexibility and efficiency. SmartShelf emphasizes automation, accuracy, and ease of use, reducing manual errors and streamlining inventory-related workflows.",
+        "brief": "Full-stack inventory management system with real-time stock tracking, alerts, and secure role-based access.",
+        "features": [
+            "Inventory tracking",
+            "Low-stock alerts",
+            "Order management",
+            "Category organization",
+            "Vendor management",
+            "Inventory reporting"
+        ],
+        "security": [
+            "Two-factor authentication",
+            "Role-based access control"
+        ],
+        "objective": "Provide businesses with a secure, efficient inventory management system that improves accuracy and streamlines operational workflows."
+    },
+    {
+        "id": 7,
+        "title": "Start Getting Fit",
+        "category": "Mobile Apps",
+        "image": "/images/SGF.png",
+        "type": "Mobile Fitness App",
+        "languages": [
+            "Flutter",
+            "Dart",
+            "Firebase"
+        ],
+        "year": 2024,
+        "client": "Personal Project",
+        "Service": [
+            "Frontend Development",
+            "Backend Development"
+        ],
+        "project": "Mobile App",
+        "githubLink": "https://github.com/Trevor-Km/StartGettingFit",
+        "liveDemoLink": "",
+        "description": "Start Getting Fit is a cross-platform mobile fitness app built with Flutter and Dart, backed by Firebase for secure, real-time data synchronization. The application allows users to log workouts, track meals, and set personalized fitness goals. Its design focuses on accessibility, making it suitable for beginners and advanced users alike. Progress charts and milestone achievements help maintain motivation, while daily notifications encourage consistent engagement. Offline mode ensures users can update their data without connectivity, with automatic sync once online. The project demonstrates mobile-first design, effective cloud integration, and user-centric functionality to support sustainable health and fitness habits.",
+        "brief": "Mobile fitness tracker with workout logging, meal tracking, and goal-setting, synced via Firebase.",
+        "features": [
+            "Workout logging",
+            "Custom exercise plans",
+            "Meal tracking",
+            "Goal setting",
+            "Progress visualization",
+            "Offline support"
+        ],
+        "objective": "Encourage healthier lifestyles by providing an engaging, cloud-synced fitness tracker that supports goal-setting and daily motivation."
+    },
+    {
+        "id": 8,
+        "title": "Arcanum",
+        "category": "Games",
+        "image": "/images/arcanum.png",
+        "type": "Unity 2D Game",
+        "languages": [
+            "C#",
+            "Unity"
+        ],
+        "year": 2025,
+        "client": "School Project",
+        "Service": "N/A",
+        "project": "Game",
+        "githubLink": "https://github.com/Trevor-Km/Arcanum",
+        "liveDemoLink": "",
+        "description": "Arcanum is a Unity-based 2D dungeon crawler game built with C#, offering a retro-inspired visual style paired with modern gameplay mechanics. Developed collaboratively, it features five unique character classes with distinct abilities and procedurally generated dungeon levels to ensure replayability. Enemy AI introduces dynamic challenges, while pixel-art graphics and an original chiptune soundtrack deliver an authentic nostalgic feel. Players encounter puzzles, environmental hazards, and a multi-stage boss battle, providing varied gameplay experiences. Developed using Agile workflows, Arcanum emphasizes clean code, collaborative design, and cross-platform performance optimization, resulting in a smooth and engaging gaming experience.",
+        "brief": "Retro-style Unity dungeon crawler with multiple classes, procedural levels, and boss battles.",
+        "features": [
+            "Five playable character classes",
+            "Class-specific abilities",
+            "Procedurally generated levels",
+            "Enemy AI",
+            "Boss battles",
+            "Chiptune soundtrack"
+        ],
+        "objective": "Deliver a nostalgic yet challenging 2D game blending retro visuals with modern gameplay mechanics."
+    },
+    {
+        "id": 9,
+        "title": "Blackjack Game",
+        "category": [
+            "Games",
+            "Responsive Web Apps"
+        ],
+        "image": "/images/blackjack-game.png",
+        "type": "Frontend Web Game",
+        "languages": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "year": 2022,
+        "client": "Personal Project",
+        "Service": [
+            "Frontend Development",
+            "Web Design"
+        ],
+        "project": "Game",
+        "liveDemoLink": "https://black-jack-player-vs-dealer-ag4a.vercel.app/",
+        "githubLink": "https://github.com/natbitton54/quick-cart-react-js",
+        "description": "The Blackjack Game is a browser-based recreation of the popular casino card game, implemented in HTML, CSS, and JavaScript. Players can place bets, draw cards, and compete against the dealer, following traditional casino rules. The interface features animated card dealing, dynamic score updates, and win/loss indicators, enhancing the interactive experience. Designed with responsive layouts, the game runs smoothly across desktop and mobile devices. JavaScript manages core game logic, ensuring fair randomness and accurate scoring. This project highlights practical skills in interactive UI creation, game logic implementation, and responsive design for an engaging digital card game experience.",
+        "brief": "Browser-based Blackjack game with animated card dealing and responsive design.",
+        "features": [
+            "Card dealing animations",
+            "Dynamic score tracking",
+            "Responsive UI",
+            "Casino rule implementation"
+        ],
+        "objective": "Recreate a classic card game experience online with responsive design and interactive JavaScript-powered gameplay."
+    }
+]
